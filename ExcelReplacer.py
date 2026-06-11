@@ -1,7 +1,6 @@
 import pandas as pd
 import difflib
 import json
-import xlrd
 
 
 def find_top_matches(name, references):
