@@ -1,6 +1,5 @@
 import tabula
 import pandas as pd
-import xlrd
 
 
 # Функция для преобразования значений
