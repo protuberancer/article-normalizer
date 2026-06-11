@@ -2,7 +2,6 @@ import sys
 import numpy as np
 import pandas as pd
 import json
-import xlrd
 
 from PyQt5.QtWidgets import *
 from PyQt5 import QtCore
